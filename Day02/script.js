@@ -23,16 +23,7 @@ var a = 10;
 console.log(--a); // Pre Decrement -> First Decrement the value by 1 then print . 
 console.log(a);
 console.log(a--); // First Print the value then Decrement by 1 
-console.log(a); 
-
-
- 
-
-
-
-
-
-
+console.log(a);
 
 
 
