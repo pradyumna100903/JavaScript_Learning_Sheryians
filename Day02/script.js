@@ -71,13 +71,34 @@ console.log(i<j && k>j);  // Logical AND Operator
 console.log(i<j && k>j);  
 
 //Conditionals -> When our code runs on some conditions
+// -if 
+// -if/else
+// -nested if
+// =if else ladder
+
+// Syntax for if  else 
+
+// if(condition){
+//     // true block
+// }
+
+// else {
+
+//     // false block 
+
+
+// }
+
 
 
 if(i<j)
 {
     console.log("I Love JS");
     
-} else {
+} 
+
+else
+{
     console.log(" I Hate JS ");
 
     
