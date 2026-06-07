@@ -1,4 +1,4 @@
-// console.log("Phase 3 ");
+// console.log("Day 3 Phase 2 ");
 
 
 // console.log("Before if");
@@ -78,11 +78,28 @@
 // var num = Number(prompt('Enter The Number'));
 
 // var a = 1 
-// while(a<=10) {
+// while(a  <=10) {
 
 //     console.log(num+ " X " + a + " = " +num*a);
 //     a++;
 // }
+
+// Program to ask password until correct password is entered
+
+
+// do{
+//     var password = prompt("Enter The Password ");
+
+// } while(password =='123')
+
+// console.log('Welcome');
+    
+
+
+
+
+
+
 
 
 
