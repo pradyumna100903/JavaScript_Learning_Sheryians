@@ -68,7 +68,6 @@
 // {
 //     if(a%2==0){
 //         console.log(a);
-        
 //     }
 //     a++
 // }
@@ -94,6 +93,48 @@
 
 // console.log('Welcome');
     
+
+// Browsers support  some API's called WEB API's so we can run JS Seamlessly without any extra tools / configurations . ex : alert() , prompt(), confirm() are all part of Web API's provided by the Browser's 
+
+
+// 3 Types of Variable Declaration in JavaScript
+// var , let , const ;
+
+Till ES5 version only we had var for declaring variables till 2015 
+
+in 2015 when ES6 version was launched they introduced 2 new types let and const 
+
+// var - Value can be reassigned / Function Scoped
+// let - Value can be reassigned / Block Scoped
+// const - Value cannot  be reassigned / Block Scoped 
+
+// Example for var and let where we can reaasign values 
+// var a = 10;
+// console.log(a); // 10  
+// a = 12;
+// console.log(a);  // a value will be updated to 12 
+
+
+
+// But for const you cannot reassign the value 
+
+// const a =20;
+// console.log(a);
+// a = 29;
+// console.log(a);  // Uncaught TypeError: Assignment to constant variable.
+
+
+// Strings = Set of characters / Sequence of Characters 
+
+// we can declare Strings with 3 types -
+// '' - Single Quotes
+// " " - Double Quotes
+// ` ` - Backtick or Template Literals 
+
+// ex: var name = 'Praddy';
+
+
+// Different String methods 
 
 
 
