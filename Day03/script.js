@@ -100,9 +100,9 @@
 // 3 Types of Variable Declaration in JavaScript
 // var , let , const ;
 
-Till ES5 version only we had var for declaring variables till 2015 
+// Till ES5 version only we had var for declaring variables till 2015 
 
-in 2015 when ES6 version was launched they introduced 2 new types let and const 
+// in 2015 when ES6 version was launched they introduced 2 new types let and const 
 
 // var - Value can be reassigned / Function Scoped
 // let - Value can be reassigned / Block Scoped
