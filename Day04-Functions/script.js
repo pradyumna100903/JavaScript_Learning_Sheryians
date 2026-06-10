@@ -29,4 +29,26 @@ console.log("Hello JS");
 // greet('Harsh');
 
 
+// function partyChecker(user,age){
+
+//     console.log("Hello Good Morning ...." , user );
+
+//     if(age>=18){
+//         console.log("Welcome To the Party ");
+//     }
+
+//     else{
+//         console.log("ohh! you aren't allowed sorry..");
+//     }
+    
+// }
+// partyChecker("Pradyumna",25);
+// console.log(".......");
+
+// partyChecker("Rahul",15);
+
+
+
+
+
 
