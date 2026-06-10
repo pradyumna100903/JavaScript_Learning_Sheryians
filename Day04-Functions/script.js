@@ -44,8 +44,61 @@ console.log("Hello JS");
 // }
 // partyChecker("Pradyumna",25);
 // console.log(".......");
-
 // partyChecker("Rahul",15);
+
+
+
+// Types of Functions
+
+// Function Declaration 
+// - Normal Function with 'function ' keyword
+
+// function a() {      // Function Declaration 
+//     console.log("Hello");                  // Function Body
+    
+// }
+
+// a(); // Calling 
+
+
+// Function Expression  
+// - Declaring a function inside a variable 
+
+    // var b1 = function(){     // Function Expression - Function is stored inside a variable
+    //     console.log("Hello ");
+        
+    // }
+
+    // b1();
+
+
+
+// Fat Arrow / Arrow Functions 
+// Using ()=> for declaring a function   
+
+
+// var c1 = () => {
+//     console.log("Hello ");
+    
+// }
+
+// c1();
+
+
+
+// One Liner Functions - 
+// If we have only one line inside finction body then we can use One Liner function 
+
+
+// var c2 = () => console.log("Hello ");
+
+// // We an also pass parameters inside 
+
+// var c2 = (a,b) => console.log("Hello Guys" ,a ,b);
+
+// c2("Praddy" , 22);
+
+
 
 
 
