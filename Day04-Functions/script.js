@@ -138,6 +138,27 @@ console.log("Hello JS");
 // const; - Block Scoped
 
 
+// A function by default returns undefined if no return statement is used . If return is used then it comes out immediately
+
+// function aaa(){
+//     console.log("Hello");
+    
+// }
+
+// console.log(aaa());   // Hello undefined
+
+
+// Function with return 
+
+// function add(a,b){
+//     return a+b;
+
+// }
+
+// console.log(add(43,33));    // 76
+// console.log(add(3422,321));  //3743
+
+
 
 
 
