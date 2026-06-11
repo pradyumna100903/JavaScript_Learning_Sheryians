@@ -125,6 +125,19 @@ console.log("Hello JS");
 // 1. Wrapping the function inside () .
 // 2. The (); at the end calls it . 
 
+// We can also Write IIFE with arrow functions 
+
+// (()=>console.log("Hello I am IIFE"))(); 
+
+
+
+// var let and const scope and visibility
+
+// var - function scoped
+// let  -Block Scoped
+// const; - Block Scoped
+
+
 
 
 
