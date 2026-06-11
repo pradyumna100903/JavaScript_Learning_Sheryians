@@ -99,6 +99,39 @@ console.log("Hello JS");
 // c2("Praddy" , 22);
 
 
+// Normal Functions are "hoisted" meaning we can call the fucntion even before its defined body signature
+
+
+//     abc('prad'); // Here we are calling the function before its defined .
+
+
+//   function abc(a)
+//   {
+//     console.log(" Hello " , a);
+
+//   }
+
+// but in function expression it gives error so keep it in mind 
+
+
+// // IIFE - Immediately Invoked Funcrion Expression
+// // -> Used for Immediately Invoking Functions . It runs at the moment it's defined
+
+// (function(){
+//     console.log("Hello I am IIFE , I run immediately ");
+// })();
+        
+// How it works -    
+// 1. Wrapping the function inside () .
+// 2. The (); at the end calls it . 
+
+
+
+
+
+
+
+
 
 
 
