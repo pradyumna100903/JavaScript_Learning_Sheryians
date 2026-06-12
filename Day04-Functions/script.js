@@ -1,6 +1,9 @@
 console.log("Hello JS");
 
 // Functions - These are accessible , Reusable and Systematic block of code . To declare a function we use 'function ' keyword . 
+
+// Defn- A function is a reusable block of code that performs a specific task , instead of writing logic over and over , you write it inside a function and call it whenever needed .
+
  
 // ex: function abc(parameter1, parameter2 , .....){
 
@@ -197,12 +200,18 @@ console.log("Hello JS");
 
 // -> here we are giving same input but everytime its result changes
 
+// Edge Cases Functions with parameters and Arguments 
 
 
+function abc(a,b){
 
+    console.log("Hello" , a,b);
+    
+}
 
-
-
+abc(10);  // Hello 10 Undefined 
+abc(10,20,30,40) // Hello 10 20
+abc(); // Hello undefined undefined
 
 
 
