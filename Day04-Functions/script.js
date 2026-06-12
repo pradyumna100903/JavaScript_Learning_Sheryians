@@ -160,7 +160,28 @@ console.log("Hello JS");
 
 
 
+// Pure and Impure Functions 
 
+// Pure - Does not change external variable , Given the same input always returns same exact output
+// No side effects of changing external variable 
+
+// function square(x) {
+//     return x*x;
+// }
+
+// let res = square(24);
+// console.log(res);
+
+// Impure Functions - The output may vaty, It modifies a global variable 
+
+// let total = 0 
+// function addTotal(n){
+//     total += n;
+//     return total; 
+// }
+
+// let res = addTotal(12)
+// console.log(res);
 
 
 
